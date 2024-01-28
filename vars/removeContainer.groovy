@@ -1,4 +1,4 @@
 def call(){
-    sh 'docker stop netflex'
-    sh 'docker rm netflex'
+    sh 'docker stop netflix'
+    sh 'docker rm netflix'
 }
